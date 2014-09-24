@@ -16,3 +16,4 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 
 * [Sense-lang](http://www.sense-lang.org/french.php), des cours et des exercices pour apprendre à taper sans regarder votre clavier.
 * [10 fast fingers](http://10fastfingers.com/typing-test/french), tests de vitesse de frappe. Visez un score de 60+
+* [f.lux](https://justgetflux.com), un programme pratique pour reposer vos yeux après de longues heures sur écran : il ajuste la luminosité et les couleurs en fonction de l'heure de la journée. **Attention :** n'oubliez pas de la désactiver avant de faire du graphisme !
