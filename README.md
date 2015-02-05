@@ -12,8 +12,15 @@ Dans le cadre de nos cours de labo, il nous arrivera souvent de digresser et d'a
 
 Le présent document référencera ces discussions et les éventuels liens qui s'y rapportent.
 
-### Mercredi 24 septembre 2014
+### CSS
+
+* [CSS Reference](http://tympanus.net/codrops/css_reference/), une très bonne référence très complète sur le langage CSS.
+
+### Dactylographie
 
 * [Sense-lang](http://www.sense-lang.org/french.php), des cours et des exercices pour apprendre à taper sans regarder votre clavier.
 * [10 fast fingers](http://10fastfingers.com/typing-test/french), tests de vitesse de frappe. Visez un score de 60+
+
+### Utilitaire
+
 * [f.lux](https://justgetflux.com), un programme pratique pour reposer vos yeux après de longues heures sur écran : il ajuste la luminosité et les couleurs en fonction de l'heure de la journée. **Attention :** n'oubliez pas de la désactiver avant de faire du graphisme !
