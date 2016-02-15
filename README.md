@@ -15,6 +15,7 @@ Le présent document référencera ces discussions et les éventuels liens qui s
 ### CSS
 
 * [CSS Reference](http://tympanus.net/codrops/css_reference/), une très bonne référence très complète sur le langage CSS.
+* [Les couleurs du web](https://fr.wikipedia.org/wiki/Couleur_du_Web), article Wikipédia référençant les noms et codes couleurs acceptés par les navigateurs web.
 
 ### Dactylographie
 
